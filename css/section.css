@@ -1,0 +1,19 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+tr,th,td{border: 1px solid red;
+    padding: 5px;
+    border-color: antiquewhite;
+}
+th{background-color: indianred;
+color: aliceblue;
+text-shadow: 2px 2px 4px black;}
+
+#break{background-color: coral;}
+.JY{color: lightyellow;}
+.XL{color: aqua;}
+table{margin: auto;
+width: 90%;
+border-collapse: collapse;}
