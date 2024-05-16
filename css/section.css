@@ -1,0 +1,30 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+#h1{margin: 0px;
+padding-top: 20%;}
+
+#thrid{margin: 0px;}
+
+#sec h1{margin: 0px;}
+
+
+
+a:link{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+  
+}
+
+
+
