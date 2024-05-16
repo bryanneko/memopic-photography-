@@ -1,0 +1,31 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+section{
+    margin: 0px;
+    width: 100px;
+    
+}
+
+
+
+
+h1{margin: 0px;
+float: left;
+padding-left: 10px;
+padding-top: 10px;}
+
+
+table{
+    float: left;
+    width: 100%;
+    border: 1px solid red;
+    margin-top: 50px;
+}
+img{
+    width: 100%;
+    border: 1px solid red;
+}
+
