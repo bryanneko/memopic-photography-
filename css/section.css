@@ -3,17 +3,28 @@ body{
     text-align: center;
 }
 
-tr,th,td{border: 1px solid red;
-    padding: 5px;
-    border-color: antiquewhite;
-}
-th{background-color: indianred;
-color: aliceblue;
-text-shadow: 2px 2px 4px black;}
+#h1{margin: 0px;
+padding-top: 20%;}
 
-#break{background-color: coral;}
-.JY{color: lightyellow;}
-.XL{color: aqua;}
-table{margin: auto;
-width: 90%;
-border-collapse: collapse;}
+#thrid{margin: 0px;}
+
+#sec h1{margin: 0px;}
+
+
+
+a:link{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: black;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 10px;
+  
+}
+
+
+

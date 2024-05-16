@@ -1,0 +1,69 @@
+body{
+    font-family: verdana;
+    text-align: center;
+}
+
+h1{margin-bottom: 60px;
+text-align: left;
+border: px solid black;
+}
+
+table{
+    margin: 30px;
+    border: 0px solid blue;
+    width: 80%;
+    float: left;
+    
+}
+
+th{ 
+    border: 0px solid black;
+  background-color:lightgray;
+    padding-top: 20px;
+    text-align: left;
+    border-radius: 10px;
+    padding-left: 35px;
+    font-family:fantasy;
+    font-size: 35px;
+    
+}
+
+
+
+#email{ color: black;
+    font-size: 35px;
+    padding-left: 35px;
+    float: right;
+    padding-right: 45px;
+    
+}
+
+#mes{ color: black;
+    font-size: 35px;
+    padding-left: 35px;
+    margin-right: 10px;
+    float: right;
+    padding-right: 38px;
+}
+
+#call{
+    color: black;
+    font-size: 35px;
+    padding-left: 35px;
+    float: right;
+    padding-right: 45px;
+}
+
+a:link{color: black;}
+
+a:hover{
+    text-shadow: 2px 2px 2px gray;
+    background-color:  #B4B4B8;
+border-radius: 0px 0px 20px 20px;
+    color: dimgrey;
+    transition: 0.8s;
+ transform:translate(5px);
+    
+}
+
+
